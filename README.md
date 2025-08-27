@@ -6,9 +6,11 @@ This project is a recreation of the standard C library functions, developed as p
 
 - `ft_isalpha` – Checks if a character is alphabetic
 
-## 📁 Structure
+## 📁 Upcoming roles
 
-libft/
-├── include // Implementation of ft_isalpha 
-├── programs // Header with function declarations
-├── src // Compile library
+- [x] ft_isalpha
+- [ ] ft_isdigit
+- [ ] ft_isalnum
+- [ ] ft_isascii
+- [ ] ft_isprint
+- ...
