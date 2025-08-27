@@ -9,7 +9,7 @@ This project is a recreation of the standard C library functions, developed as p
 ## 📁 Upcoming roles
 
 - [x] ft_isalpha
-- [ ] ft_isdigit
+- [x] ft_isdigit
 - [ ] ft_isalnum
 - [ ] ft_isascii
 - [ ] ft_isprint
